@@ -1,2 +1,2 @@
 # hl-modding
-Modding half life games
+Modding half-life games, mostly the vanilla half-life game
