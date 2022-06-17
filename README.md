@@ -1,18 +1,23 @@
 # Half-Life Modding
 Modding half-life games, mostly the vanilla half-life game and sharing useful and helpful resources to do it.
 ## C++ Resources
-<a href="https://www.learncpp.com/">Learn C++ (Written)</a><br>
-<a href="https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw">The Cherno (Visual)</a><br>
-<a href="https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">The Cherno C++ Playlist (Visual)</a><br>
+<ul>
+  <li> <a href="https://www.learncpp.com/">Learn C++ (Written)</a></li><br>
+  <li> <a href="https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw">The Cherno (Visual)</a></li><br>
+  <li> <a href="https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">The Cherno C++ Playlist (Visual)</a></li><br>
+</ul>
 
 ## Resources/Channels I use/used for learning half-life modding that may be helpful.
-<a href="https://www.youtube.com/c/Admer456">Admer456</a><br>
-<a href="https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_1_-_Custom_Game_feature">The Whole Half Life</a><br>
-
+<ul>
+  <li> <a href="https://www.youtube.com/c/Admer456">Admer456</a></li><br>
+  <li> <a href="https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_1_-_Custom_Game_feature">The Whole Half Life</a></li><br>
+</ul>
 ## Learn more about half-life mods
-<a href="https://half-life.fandom.com/wiki/Mods">Half-life Fandom - Mods</a> <br>
-<a href="https://youtu.be/IW6fAhH0sos">Top 10 Half-Life 1 Mods 🔶 Barley - Barley</a><br>
-<a href="https://youtu.be/gHlqaEG0TJg">The 5 Most Influential Half-Life Mods - The SPUF of Legend</a><br>
+<ul>
+  <li> <a href="https://half-life.fandom.com/wiki/Mods">Half-life Fandom - Mods</a></li><br>
+  <li> <a href="https://youtu.be/IW6fAhH0sos">Top 10 Half-Life 1 Mods 🔶 Barley - Barley</a></li><br>
+  <li> <a href="https://youtu.be/gHlqaEG0TJg">The 5 Most Influential Half-Life Mods - The SPUF of Legend</a></li><br>
+</ul>
 
 ## Popular half-life mods
 <ul>
