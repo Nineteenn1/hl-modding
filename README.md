@@ -1,5 +1,5 @@
-# hl-modding
-Modding half-life games, mostly the vanilla half-life game.
+# Half-Life Modding
+Modding half-life games, mostly the vanilla half-life game and sharing useful and helpful resources to do it.
 ## C++ Resources
 <a href="https://www.learncpp.com/">Learn C++ (Written)</a><br>
 <a href="https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw">The Cherno (Visual)</a><br>
