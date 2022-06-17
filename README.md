@@ -27,11 +27,17 @@ Modding half-life games, mostly the vanilla half-life game and sharing useful an
 </ul>
 
 ## For Polish Readers
-<a href="https://www.youtube.com/watch?v=vaTXAVgUGz8">TOP 10 Modów do Half-Life - NemTieLea</a><br>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=vaTXAVgUGz8">TOP 10 Modów do Half-Life - NemTieLea</a></li><br>
+  <li><a href="https://www.gry-online.pl/S018.asp?ID=962">Najlepsze mody do gry Half-Life 2 - obowiązkowy zestaw dla fanów Gordona Freemana - GryOnline.pl</a></li><br>
+</ul>
 
-## GoldSrc Games History
-<a href="https://youtu.be/Ld5NY3L5iao">The History of Goldsrc Games - LamWarp</a><br>
-
+## GoldSrc Games
+<ul>
+  <li> <a href="https://youtu.be/Ld5NY3L5iao">The History of Goldsrc Games - LamWarp</a></li><br>
+  <li><a href="https://www.youtube.com/watch?v=rG7WtxmCYaY">Games using GoldSrc (Half-Life Engine) - All School Gameplays</a></li><br>
+  <li> <a href="https://en.wikipedia.org/wiki/GoldSrc">Wikipedia - GoldSrc</a></li><br>
+</ul>
 
 
 
