@@ -12,6 +12,7 @@ Modding half-life games, mostly the vanilla half-life game and sharing useful an
   <li> <a href="https://www.youtube.com/c/Admer456">Admer456</a></li><br>
   <li> <a href="https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_1_-_Custom_Game_feature">The Whole Half Life</a></li><br>
 </ul>
+
 ## Learn more about half-life mods
 <ul>
   <li> <a href="https://half-life.fandom.com/wiki/Mods">Half-life Fandom - Mods</a></li><br>
