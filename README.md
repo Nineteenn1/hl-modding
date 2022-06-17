@@ -1,7 +1,8 @@
 # Half-Life Modding
 Modding half-life games, mostly the vanilla half-life game and sharing useful and helpful resources to do it.
 
-# RESOURCE MASTER LIST
+# Resources
+
 ## C++ Resources
 <ul>
   <li> <a href="https://www.learncpp.com/" target="_blank">Learn C++ (Written)</a></li><br>
