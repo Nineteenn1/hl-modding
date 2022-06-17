@@ -22,9 +22,11 @@ Modding half-life games, mostly the vanilla half-life game and sharing useful an
 
 ## Popular half-life mods
 <ul>
-  <li><a href="https://en.wikipedia.org/wiki/Garry%27s_Mod" target="_blank">Garry's mod</a></li><br>
   <li><a href="https://counterstrike.fandom.com/wiki/Counter-Strike" target="_blank">Counter Strike</a></li><br>
+  <li> <a href="https://cry-of-fear.fandom.com/wiki/Cry_of_Fear" target="_blank">Cry Of Fear</a></li><br>
+  <li><a href="https://en.wikipedia.org/wiki/Garry%27s_Mod" target="_blank">Garry's mod</a></li><br>
   <li> <a href="https://en.wikipedia.org/wiki/Half-Life:_C.A.G.E.D." target="_blank">Half-Life: C.A.G.E.D.</a></li><br>
+  <li> <a href="https://wiki.teamfortress.com/wiki/Team_Fortress_Classic" target="_blank">Team Fortress Classic</a></li><br>
 </ul>
 
 ## For Polish Readers
