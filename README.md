@@ -1,6 +1,5 @@
 # Half-Life Modding
 Modding half-life games, mostly the vanilla half-life game and sharing useful and helpful resources to do it.
-<a href="https://www.half-life.com/en/halflife"><img src="capsule_616x353.jpg" alt="Half Life" title="Half Life" width="308" heigth="176"/></a>
 
 # Resources
 
