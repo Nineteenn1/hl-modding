@@ -2,7 +2,7 @@
 Modding half-life games, mostly the vanilla half-life game and sharing useful and helpful resources to do it.
 Some of the mods I made may have their own repositories.
 
-For modding I used <a href = "https://github.com/SamVanheer/halflife-updated">the Half-Life Updated SDK</a>
+For modding I used the <a href = "https://github.com/SamVanheer/halflife-updated">Half-Life Updated SDK</a>
 
 # Mods I made
 
