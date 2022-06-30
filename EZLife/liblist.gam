@@ -1,0 +1,13 @@
+// Valve Game Info file
+// These are key/value pairs.    Certain mods will use different settings
+//
+game "EZlife"
+gamedir "EZlife"
+startmap "c0a0"
+trainmap "t1a0"
+gamedll "dlls\hl.dll"
+gamedll_linux "dlls\hl.so"
+gamedll_osx "dlls\hl.dylib"
+client "1"
+secure "1"
+type "singleplayer_only"
