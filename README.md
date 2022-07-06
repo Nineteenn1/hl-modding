@@ -6,12 +6,11 @@ For modding I used the <a href = "https://github.com/SamVanheer/halflife-updated
 
 # Mods I made
 
-### firstmod
-firstmod is my first half life mod, nothing much.
-
-### OVERPROTECTIVE
-
-...
+<ul>
+<li><a href="https://github.com/fxxsx/hl-modding/tree/in-dev/firstmod">firstmod</a></li><br>
+<li><a href="https://github.com/fxxsx/hl-modding/tree/in-dev/OVERPROTECTIVE">OVERPROTECTIVE</a></li><br>
+<li><a href="https://github.com/fxxsx/hl-modding/tree/in-dev/EZLife">EZLife</a></li><br>
+</ul>
 
 # Resources
 
@@ -25,6 +24,7 @@ firstmod is my first half life mod, nothing much.
 ## Resources/Channels I use/used for learning half-life modding that may be helpful.
 <ul>
   <li> <a href="https://www.youtube.com/c/Admer456" target="_blank">Admer456</a></li><br>
+  <li> <a href="https://www.sourcemodding.com/">Source Modding</a></li><br>
   <li> <a href="https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_1_-_Custom_Game_feature" target="_blank">The Whole Half Life</a></li><br>
 </ul>
 
@@ -52,7 +52,7 @@ firstmod is my first half life mod, nothing much.
 
 ## GoldSrc Games
 <ul>
-  <li> <a href="https://youtu.be/Ld5NY3L5iao" target="_blank">The History of Goldsrc Games - LamWarp</a></li><br>
+  <li><a href="https://youtu.be/Ld5NY3L5iao" target="_blank">The History of Goldsrc Games - LamWarp</a></li><br>
   <li><a href="https://www.youtube.com/watch?v=rG7WtxmCYaY" target="_blank">Games using GoldSrc (Half-Life Engine) - All School Gameplays</a></li><br>
   <li> <a href="https://en.wikipedia.org/wiki/GoldSrc" target="_blank">Wikipedia - GoldSrc</a></li><br>
 </ul>
