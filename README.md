@@ -6,12 +6,12 @@ For modding I used the <a href = "https://github.com/SamVanheer/halflife-updated
 
 # Mods I made
 
-### firstmod
-firstmod is my first half life mod, nothing much.
+<ul>
+  <li><a href ="https://github.com/fxxsx/hl-modding/tree/in-dev/firstmod">firstmod</a></li>
+  <li><a href ="https://github.com/fxxsx/hl-modding/tree/in-dev/OVERPROTECTIVE">OVERPROTECTIVE</a></li>
+  <li><a href ="https://github.com/fxxsx/hl-modding/tree/in-dev/EZLife">EZLife</a></li>
+</ul>
 
-### OVERPROTECTIVE
-
-...
 
 # Resources
 
